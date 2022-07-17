@@ -3,6 +3,8 @@
 ************************************************************************************************************
 Programa: Teste React - Todo List
 <hr>
+É possível testar o app pelo link: https://teste-react-todo-list-hz6i93e2j-igorcastilhos.vercel.app/
+<hr>
 Autor: Igor Castilhos
 
 Esse programa foi desenvolvido com o intuito de demonstrar conhecimentos sobre JavaScript, React e Redux.
